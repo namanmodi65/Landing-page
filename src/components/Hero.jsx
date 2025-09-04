@@ -84,17 +84,14 @@ const Hero = () => {
 			<div className="space-y-5 hidden md:block">
 			 <p>Cool. Crisp. Classic.</p>
 			 <p className="subtitle">
-				Sip the Spirit <br /> of Summer
+				Dress to Impress <br /> Everyday, Everywhere
 			 </p>
 			</div>
 			
 			<div className="view-cocktails">
 			 <p className="subtitle">
-				Every cocktail on our menu is a blend of premium ingredients,
-				creative flair, and timeless recipes — designed to delight your
-				senses.
+				Every outfit in our collection is a blend of premium fabrics, modern trends, and timeless designs — crafted to elevate your style.
 			 </p>
-			 <a href="#cocktails">View cocktails</a>
 			</div>
 		 </div>
 		</div>
